@@ -1,0 +1,58 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 10px solid linear-gradient(ghostwhite,black);
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#start
+{
+    font-size: 22px;
+    background: linear-gradient(ghostwhite,black,red,silver);
+}
+
+#status
+{
+    font-size: 22px;
+}
+
+h4
+{
+background-color:ghostwhite;
+line-height: 2;
+margin: 0px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+video
+{
+     background: url('game_console.png');
+     background-size: cover;
+     background-position: center;
+     padding: 25px;
+}
